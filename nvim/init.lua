@@ -1,2 +1,2 @@
-require("config.remap")
-require("config.general")
+-- bootstrap lazy.nvim, LazyVim and your plugins
+require("config.lazy")
